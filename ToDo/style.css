@@ -1,0 +1,12 @@
+h1, h5{
+    text-align: center;
+}
+
+#ulTasks li.done{
+    text-decoration: line-through;
+    color: #6c757d
+}
+
+body{
+    background-color:yellowgreen
+}
